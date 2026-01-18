@@ -1,4 +1,3 @@
 #!/bin/bash
 # Post-boot setup
 flatpak install -y flathub com.visualstudio.code com.rustdesk.RustDesk
-echo "Setup complete! Reboot optional."
